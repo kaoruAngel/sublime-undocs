@@ -44,9 +44,9 @@ Using the Mouse
 
 Windows
 
-==========================	=====================================
-Select Block				Right Mouse Button + ⇧
-Add to Selection			Ctrl + Right Mouse Button + ⇧
+==========================	===================================== =====================
+Select Block				Right Mouse Button + ⇧				  Middle Mouse Button
+Add to Selection			Ctrl + Right Mouse Button + ⇧		  =====================
 Remove from Selection		Alt + Right Mouse Button + ⇧
 ==========================	=====================================
 
